@@ -677,7 +677,7 @@
 
 .footer-brand { margin-bottom: 40px; }
 
-.footer-brand-text { display: none; }
+.footer-brand-text { display: block; }
 
 .social-title {
   color: var(--white);
